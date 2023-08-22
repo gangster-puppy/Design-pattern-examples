@@ -1,0 +1,3 @@
+/workspaces/Design-pattern-examples/行为模式/state/build/CMakeFiles/state.dir
+/workspaces/Design-pattern-examples/行为模式/state/build/CMakeFiles/edit_cache.dir
+/workspaces/Design-pattern-examples/行为模式/state/build/CMakeFiles/rebuild_cache.dir
